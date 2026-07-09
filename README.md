@@ -56,6 +56,7 @@ Displays the distribution of different course types such as Courses, Specializat
 
 ## 2️⃣ Most Prominent Languages
 
+<img width="1920" height="1080" alt="Screenshot 2026-07-09 124945" src="https://github.com/user-attachments/assets/9d281497-b1a0-4a5e-b7cc-c538f9fa5b42" />
 
 
 Shows the percentage distribution of courses available in different languages.
@@ -64,7 +65,8 @@ Shows the percentage distribution of courses available in different languages.
 
 ## 3️⃣ Most Demanding Skills
 
- 
+ <img width="1920" height="1080" alt="Screenshot 2026-07-09 124849" src="https://github.com/user-attachments/assets/277bd5bc-5258-4c66-9b48-43297d000637" />
+
 
 Word Cloud visualization highlighting the most popular and frequently taught skills across all courses.
 
@@ -72,7 +74,8 @@ Word Cloud visualization highlighting the most popular and frequently taught ski
 
 ## 4️⃣ Top Rated Instructors
 
- 
+ <img width="1920" height="1080" alt="Screenshot 2026-07-09 125335" src="https://github.com/user-attachments/assets/420d545a-84de-4433-a4b7-5aa0209042c2" />
+
 
 Displays the highest-rated instructors based on learner ratings.
 
@@ -80,7 +83,8 @@ Displays the highest-rated instructors based on learner ratings.
 
 ## 5️⃣ Course Duration vs Viewer Engagement
 
- 
+ <img width="1920" height="1080" alt="Screenshot 2026-07-09 125321" src="https://github.com/user-attachments/assets/56364462-914c-406d-a049-aa02d90cb3c1" />
+
 
 Analyzes how lecture duration influences average viewer engagement.
 
@@ -88,7 +92,8 @@ Analyzes how lecture duration influences average viewer engagement.
 
 ## 6️⃣ Subtitle Availability vs Viewership
 
- 
+ <img width="1920" height="1080" alt="Screenshot 2026-07-09 125034" src="https://github.com/user-attachments/assets/da924031-12c8-4880-8624-70765948b321" />
+
 
 Illustrates the relationship between subtitle availability and course popularity.
 
@@ -96,19 +101,18 @@ Illustrates the relationship between subtitle availability and course popularity
 
 ## 7️⃣ Average Views by Category
 
+<img width="1920" height="1080" alt="Screenshot 2026-07-09 125112" src="https://github.com/user-attachments/assets/db75634b-b741-421a-837f-057f817e38b3" />
 
 
 Ranks different course categories based on average number of viewers.
 
 ---
-
-## 8️⃣ Course Views by Language & Sub-Category
-
+ ## 8️⃣ Skills & Course Duration Analysis by Category
  
+<img width="1920" height="1080" alt="Screenshot 2026-07-09 131219" src="https://github.com/user-attachments/assets/6939475b-4002-400d-9e0b-66964cfa5d0d" />
 
-Compares average viewer count across different languages and course sub-categories.
 
----
+ This table compares the **average number of skills provided** and the **average course duration (in hours)** across different course categories. It helps identify categories that offer more comprehensive skill coverage and longer learning experiences.
 
 # Key Insights
 
